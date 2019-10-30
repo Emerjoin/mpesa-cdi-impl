@@ -1,2 +1,2 @@
 # What is this?
-Specification of the JavaEE CDI wrapper of the MPesa-API.
+Implementation of the JavaEE CDI wrapper of the MPesa-API.
